@@ -3,7 +3,7 @@ h1 align="center">Hi 👋, I'm Sertinox</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sertivs&label=Profile%20views&color=0e75b6&style=flat" alt="sertivs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertivs" alt="sertivs" /></a> </p>
+
 
 - 🔭 I’m currently working on [RZPVP](https://discord.com/rzpvp)
 
