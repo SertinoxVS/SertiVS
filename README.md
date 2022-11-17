@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RZPVP](https://discord.com/rzpvp)
 
-<h3 align="left">Connect with me: <p><a href="https://discordapp.com/users/867800853481390130" target="_blank"></a>My Discord</p> </h3>
+<h3 align="left">Connect with me:</h3><p><a href="https://discordapp.com/users/867800853481390130" target="_blank">My Discord</a></p>
 <p align="left">
 </p>
 
