@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sertivs&label=Profile%20views&color=0e75b6&style=flat" alt="sertivs" /> </p>
 
-- 🔭 I’m currently working on [RZPVP](https://discord.gg/rzpvp)
+- 👑 Currently working on [SWAR](https://discord.gg/swar)
+- 🔭 I worked for - RZPVP
 
 <h3 align="left">Connect with me:</h3><p><a href="https://discordapp.com/users/867800853481390130" target="_blank">My Discord</a></p>
 <p align="left">
